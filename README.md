@@ -1,0 +1,2 @@
+# safetyDictionaryDemo
+防止可变字典添加空值导致的crash
